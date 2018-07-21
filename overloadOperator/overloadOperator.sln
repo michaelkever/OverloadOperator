@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overloadOperator", "overloadOperator\overloadOperator.csproj", "{0D43CB48-4AE6-463A-9449-47B9D68A8025}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overloadOperator", "overloadOperator.csproj", "{0D43CB48-4AE6-463A-9449-47B9D68A8025}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BE4986D8-9E60-4778-980A-5B526C473397}
+		SolutionGuid = {6F4D25ED-8202-4A52-BB64-5010EE51E5C7}
 	EndGlobalSection
 EndGlobal
